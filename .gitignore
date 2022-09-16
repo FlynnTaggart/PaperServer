@@ -1,0 +1,38 @@
+# Backups
+Backups/**
+
+# Logs
+logs/**
+
+# Cache
+cache/**
+bundler/**
+libraries/**
+usercache.json
+**/userdata/**
+usermap.csv
+*.db
+**/libs/**
+**/Players/**
+**/Skins/**
+*.jarr
+
+
+# World
+*/data/**
+*/datapacks/**
+*/advancements/**
+*/entities/**
+*/playerdata/**
+*/poi/**
+*/region/**
+*/stats/**
+*/serverconfig/**
+*/icon.png
+*/level.dat
+*/level.dat_old
+*/paper-world.yml
+*/session.lock
+*/uid.dat
+*/DIM-1/**
+*/DIM1/**

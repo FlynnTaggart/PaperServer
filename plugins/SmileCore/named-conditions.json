@@ -1,0 +1,4 @@
+{
+  "ExampleCondition": "%bungee_total% > 10 & %checkitem_matcontains:AXE,inhand:main% & %mcmmo_level_woodcutting% > 125 & %world_biome% = \"PLAINS\"",
+  "OtherCondition": "%world_nearbyEntities_3.5% > 4 | (%world_players_main% < 10 & %world_nearbyEntities_3.5% > 2)"
+}
